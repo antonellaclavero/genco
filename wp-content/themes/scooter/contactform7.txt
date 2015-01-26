@@ -1,0 +1,5 @@
+<div id="name">[text* your-name placeholder "Name"]</div>
+<div id="mail">[email* your-email  placeholder "Email Address"] </div>
+<div id="subject">[text your-subject placeholder "Subject"]</div>
+<div id="comment-text">[textarea* your-message x10 placeholder "Your Comment"]
+[submit "Send Message"]</div>
