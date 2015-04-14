@@ -25,7 +25,7 @@
                     <ul class="slides">
                         <?php
 
-                        $imageSize = 'portfolio-single';
+                        $imageSize = 'full';
 
                         foreach($images as $img)
                         {
