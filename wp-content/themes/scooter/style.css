@@ -26,3 +26,6 @@
 	width: auto !important;
 	margin: 0 auto;
 }
+form input[type="submit"] {
+	margin-bottom: 2em;
+}
